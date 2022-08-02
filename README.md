@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jvhill728
-- 👀 I’m interested in all things programming.
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in entering into a junior web development career
+- 🌱 I have completed Fullstack Academy bootcamp and am currently working on some passion projects while working full time.
 
 
 <!---
